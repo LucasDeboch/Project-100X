@@ -1,9 +1,20 @@
 # Project-100X
 This is a repo for the 100-day problem-solving challenge. It has **two parts**: daily **LeetCode problem solving**, which prepares you for any coding interview, and second, **system design** projects. It equips you with all the necessary skills needed to build large scalable systems. You are not learning by watching a tutorial or by reading text, but rather by building a common system. It is a practical-oriented project focused on problem-solving skills. It gives the big picture of system design, which helps you to stand out in any coding interview or helps you to build your own system on your journey in entrepreneurship. The challenge focuses on anyone who wants to develop their problem-solving skills using programming. 
 
+### Before starting please fill this form: it only takes `1` minute
+
+[Click here: One minute google form](https://forms.gle/HeruNrBusMpShfJr8)
+
+## We just started (use the link below for each day starting from day one)
+
+## [Day 1](days/day_1/day_1.md)
+
+### 
+
 ## Requirements: 
 - Eagerness to learn 
-- computer with internet connection (No complicated IDE or other special software needed, all programming online) for those who don’t know IDE (Integrated development environment), just a convenient Microsoft Word software, but for programming with so many features to make the process easy 
+- computer with internet connection (No complicated IDE or other special software needed, all programming online) for those who don’t know IDE (Integrated development environment), just a convenient Microsoft Word software, but for programming with so many features to make the process easy. 
+If you don't have computer, you can start coding on your phone on LeetCode website. Nothing should hold you back
 - previous programming experience: not needed, but if you have better. You can even learn any programming language you choose as we go along. Those who have a background but need to brush up, we can give a cheatsheet to revise 
 - Our primary programming language python (why? easy to learn, convinent, popular with much community, so many path to other specialization  like web development, machine learning, data analysis, DevOps, and more)
   

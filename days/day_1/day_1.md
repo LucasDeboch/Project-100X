@@ -79,7 +79,7 @@ Why?
 - You can save your progress and show during interview 
 - You don't have to download any thing in your desktop/laptop. You can code on the website and run your code. For that reason, you can even solve with your phone. Even no laptop needed
 
-[Signup here](https://leetcode.com/problems/two-sum/description/)
+[Signup here](https://leetcode.com/accounts/signup/)
 
 Here the link to today problem. [LeetCode link](https://leetcode.com/problems/two-sum/description/)
 

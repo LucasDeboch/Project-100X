@@ -8,6 +8,7 @@ This is a repo for the 100-day problem-solving challenge. It has **two parts**: 
 ## We just started (use the link below for each day starting from day one)
 
 ## [Day 1](days/day_1/day_1.md)
+## [Day 2](days/day_2/day_2.md)
 
 ### 
 

@@ -71,6 +71,8 @@ You started the journey!!
 
 ![LeetCode Problem 1 screenshot](res/LeetCode%20problem_1.png)
 
+### [Solution (Please check after you tried)](solution_day_1.md)
+
 ### Task #2: Signup on LeetCode website. 
 Why? 
 - You can see the vast pool of problems

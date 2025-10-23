@@ -13,7 +13,7 @@ The outer loop iterates from the first element to the last element, and the seco
 ![Visual demonstration of brute force approach](res/brute%20force.gif)
 
 #### Implementation in Python
-```
+```python
 class Solution:
     def twoSum(self, nums: List[int], target: int) ->   List[int]:
 	    n=len(nums)
@@ -41,7 +41,7 @@ Steps
 7. If no solution found, return an empty array 
 
 #### Implementation in python
-```
+```python
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         hashmap = {}
@@ -55,7 +55,7 @@ class Solution:
 ```
 **With detailed comment** 
 
-```
+```python
 class Solution:
     
     # Define the twoSum function that takes:

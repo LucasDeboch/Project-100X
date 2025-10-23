@@ -42,7 +42,7 @@ Constraints:
 | **6 months ago** | Apple (20), Uber (10), EPAM Systems (6), Affirm (6), Accenture (5), American Express (4), Cognizant (4), LG Electronics (4), Adobe (3), Wipro (3) |
 ---
 
-For today here the video about the most important concept, `List` to solve almost most problems
+For today here the video about the most important concept, `List` to solve most problems
 ### 
 [![Watch the video on YouTube](https://img.youtube.com/vi/9OeznAkyQz4/0.jpg)](https://www.youtube.com/watch?v=9OeznAkyQz4)
 

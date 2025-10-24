@@ -4,6 +4,13 @@
 
 ---
 
+You don't have to setup Python environment to start with. You can use w3school interpreter or here online environment to run Python code. <br>
+
+---
+#### [Online Python code interpreter and development environment, click here](https://trinket.io/embed/python3) 
+
+---
+
 Day four video to watch, continued from yesterday, by famous programmer and creator: Mosh
 ### 
 [![Watch the video on YouTube](https://img.youtube.com/vi/K5KVEU3aaeQ/0.jpg)](https://www.youtube.com/watch?v=K5KVEU3aaeQ)

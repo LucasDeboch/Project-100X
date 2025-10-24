@@ -5,6 +5,12 @@ This is a repo for the 100-day problem-solving challenge. It has **two parts**: 
 
 [Click here: One minute google form](https://forms.gle/HeruNrBusMpShfJr8)
 
+> You don't have to setup Python environment to start with. You can use w3school interpreter or here online environment to run Python code. <br>
+
+#### [Online Python code interpreter and development environment, click here](https://trinket.io/embed/python3) 
+
+---
+
 ## We just started (use the link below for each day starting from day one)
 
 ## [Day 1](days/day_1/day_1.md)

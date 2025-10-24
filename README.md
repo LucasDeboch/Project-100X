@@ -9,6 +9,7 @@ This is a repo for the 100-day problem-solving challenge. It has **two parts**: 
 
 ## [Day 1](days/day_1/day_1.md)
 ## [Day 2](days/day_2/day_2.md)
+## [Day 3](days/day_3/day_3.md)
 
 ### 
 
@@ -60,9 +61,9 @@ By the end of this challenge
 ### Day 1-50
 
 | Day 1-50 | LeetCode | System design | Day 1-50 | LeetCode | System design |
-| ---:     | ---      | ---           | ---:     | ---      | ---           |
-| Day 1    |          |               | Day 26   |          |               |
-| Day 2    |          |               | Day 27   |          |               |
+| ---:     | :---:      | ---           | ---:     | ---      | ---           |
+| Day 1    |    &#x2714;     |               | Day 26   |          |               |
+| Day 2    |    &#x2714;      |               | Day 27   |          |               |
 | Day 3    |          |               | Day 28   |          |               |
 | Day 4    |          |               | Day 29   |          |               |
 | Day 5    |          |               | Day 30   |          |               |

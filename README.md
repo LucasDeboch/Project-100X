@@ -17,6 +17,7 @@ This is a repo for the 100-day problem-solving challenge. It has **two parts**: 
 ## [Day 2](days/day_2/day_2.md)
 ## [Day 3](days/day_3/day_3.md)
 ## [Day 4](days/day_4/day_4.md)
+## [Day 5](days/day_5/day_5.md)
 
 ### 
 

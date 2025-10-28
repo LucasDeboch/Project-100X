@@ -1,6 +1,6 @@
-# Day #6 LeetCode problem
+# Day #7 LeetCode problem
 
-## #6 Sum of Unique Elements
+## Problem #7 Sum of Unique Elements
 
 Difficulty level: Easy  
 [LeetCode link](https://leetcode.com/problems/sum-of-unique-elements/description/)

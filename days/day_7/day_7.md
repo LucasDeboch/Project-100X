@@ -34,7 +34,7 @@ Explanation: The unique elements are [1,2,3,4,5], and the sum is 15.
 
 Constraints:
 
-1 <= `nums.length` <= 100
+1 <= `nums.length` <= 100 <br>
 1 <= `nums[i]` <= 100
 
 

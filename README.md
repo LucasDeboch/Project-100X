@@ -22,6 +22,7 @@ This is a repo for the 100-day problem-solving challenge. It has **two parts**: 
 ## [Day 7](days/day_7/day_7.md)
 ## [Day 8](days/day_8/day_8.md)
 ## [Day 9](days/day_9/day_9.md)
+## [Day 10](days/day_10/day_10.md)
 
 ### 
 
@@ -82,7 +83,7 @@ By the end of this challenge
 | Day 6    |    &#x2714;      |               | Day 31   |          |               |
 | Day 7    |    &#x2714;        |               | Day 32   |          |               |
 | Day 8    |    &#x2714;      |               | Day 33   |          |               |
-| Day 9    |          |               | Day 34   |          |               |
+| Day 9    |     &#x2714;      |               | Day 34   |          |               |
 | Day 10   |          |               | Day 35   |          |               |
 | Day 11   |          |               | Day 36   |          |               |
 | Day 12   |          |               | Day 37   |          |               |

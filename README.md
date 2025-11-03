@@ -13,18 +13,19 @@ This is a repo for the 100-day problem-solving challenge. It has **two parts**: 
 
 ## We just started (use the link below for each day starting from day one)
 
-## [Day 1](days/day_1/day_1.md)
-## [Day 2](days/day_2/day_2.md)
-## [Day 3](days/day_3/day_3.md)
-## [Day 4](days/day_4/day_4.md)
-## [Day 5](days/day_5/day_5.md)
-## [Day 6](days/day_6/day_6.md)
-## [Day 7](days/day_7/day_7.md)
-## [Day 8](days/day_8/day_8.md)
-## [Day 9](days/day_9/day_9.md)
-## [Day 10](days/day_10/day_10.md)
-## [Day 11](days/day_11/day_11.md)
-## [Day 12](days/day_12/day_12.md)
+###### [Day 1](days/day_1/day_1.md)
+###### [Day 2](days/day_2/day_2.md)
+###### [Day 3](days/day_3/day_3.md)
+###### [Day 4](days/day_4/day_4.md)
+###### [Day 5](days/day_5/day_5.md)
+###### [Day 6](days/day_6/day_6.md)
+###### [Day 7](days/day_7/day_7.md)
+###### [Day 8](days/day_8/day_8.md)
+###### [Day 9](days/day_9/day_9.md)
+###### [Day 10](days/day_10/day_10.md)
+###### [Day 11](days/day_11/day_11.md)
+###### [Day 12](days/day_12/day_12.md)
+###### [Day 13](days/day_13/day_13.md)
 ### 
 
 ## Requirements: 
@@ -87,7 +88,7 @@ By the end of this challenge
 | Day 9    |     &#x2714;      |               | Day 34   |          |               |
 | Day 10   |    &#x2714;      |               | Day 35   |          |               |
 | Day 11   |   &#x2714;       |               | Day 36   |          |               |
-| Day 12   |          |               | Day 37   |          |               |
+| Day 12   |    &#x2714;       |               | Day 37   |          |               |
 | Day 13   |          |               | Day 38   |          |               |
 | Day 14   |          |               | Day 39   |          |               |
 | Day 15   |          |               | Day 40   |          |               |
